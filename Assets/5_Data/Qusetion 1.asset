@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 17349f271443f4441a98abc220cceefc, type: 3}
   m_Name: Qusetion 1
   m_EditorClassIdentifier: 
-  question: "\uC9C8\uBB38"
+  question: "\u3141\u3134\u3147\u3139"
+  answers:
+  - "\uB9C8"
+  - "\uB298"
+  - "\uC694"
+  - "\uB9AC"
+  correctAnswerIndex: 3

@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Qusetion 2
   m_EditorClassIdentifier: 
   question: "\uC9C8\uBB38"
+  answers:
+  - 123
+  - 213
+  - 4
+  - 1
+  correctAnswerIndex: 0
