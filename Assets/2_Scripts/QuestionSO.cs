@@ -13,9 +13,9 @@ public class QuestionSO : ScriptableObject
         return question;
     }
 
-    public string[] GetAnswers()
+    public string GetAnswer(int i)
     {
-        return answers;
+        return answers[i];
     }
 
     public string GetCorrectAnswer()
