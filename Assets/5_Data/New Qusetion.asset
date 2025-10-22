@@ -12,10 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 17349f271443f4441a98abc220cceefc, type: 3}
   m_Name: New Qusetion
   m_EditorClassIdentifier: 
-  question: 1
+  question: "\uC2DC\uC98C9~ 15 \uC0AC\uC774 \uB9C8\uC2A4\uD130\uC774\uC758 \uC54C\uD30C
+    AD \uACC4\uC218\uB85C \uC0AC\uC6A9\uB41C \uC801\uC774 \uC5C6\uC5C8\uB358 \uAC83\uC740?"
   answers:
-  - 2
-  - 4
-  - 3
-  - 5
-  correctAnswerIndex: 0
+  - 100
+  - 75
+  - 50
+  - 25
+  correctAnswerIndex: 3
+  hint: "\uC54C\uD30C\uC5D0\uACF5\uC18D\uACC4\uC218\uCD94\uAC00\uC880"
