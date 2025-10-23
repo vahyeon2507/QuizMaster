@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      neon_round_orange_0: 801340330791846111
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
